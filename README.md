@@ -11,7 +11,7 @@ By contrast, urban cities have the smallest average fare per ride and per driver
 Suburban city type data run in between rural and urban city type data across the board or dataframe info (see both PyBer Summary dataframe image and Multi-line graph image links below). 
 
 See PyBer summary dataframe here, https://github.com/Ninax3/PyBer_Analysis/blob/main/Analysis/PyBer_summary_image.png 
-See Multi-line graph here, http://localhost:8889/tree/Desktop/Analysis%20Projects/PyBer_Analysis/Analysis#:~:text=PyBer_fare_summary.png
+See Multi-line graph here, https://github.com/Ninax3/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png
 
 # Summary
 Based on the analysis, the disparities lead to these business recommendations - 
